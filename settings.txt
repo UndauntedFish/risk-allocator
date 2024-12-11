@@ -1,0 +1,1 @@
+risk_cap_per_sector: 2%

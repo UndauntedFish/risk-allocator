@@ -1,0 +1,28 @@
+| Ticker | Sector                 | Risk %           |
+|--------|------------------------|------------------|
+| FMC    | Basic Materials        |            1.00% |
+| MOS    | Basic Materials        |            1.00% |
+| GPC    | Consumer Cyclical      |            1.00% |
+| NCLH   | Consumer Cyclical      |            1.00% |
+| KDP    | Consumer Defensive     |            0.67% |
+| PEP    | Consumer Defensive     |            0.67% |
+| STZ    | Consumer Defensive     |            0.67% |
+| CTRA   | Energy                 |            1.00% |
+| EQT    | Energy                 |            1.00% |
+| AXP    | Financial Services     |            0.50% |
+| CINF   | Financial Services     |            0.50% |
+| KKR    | Financial Services     |            0.50% |
+| NDAQ   | Financial Services     |            0.50% |
+| EW     | Healthcare             |            0.50% |
+| IQV    | Healthcare             |            0.50% |
+| UNH    | Healthcare             |            0.50% |
+| VTRS   | Healthcare             |            0.50% |
+| CPRT   | Industrials            |            0.67% |
+| PWR    | Industrials            |            0.67% |
+| TDG    | Industrials            |            0.67% |
+| AMT    | Real Estate            |            2.00% |
+| ANET   | Technology             |            0.40% |
+| CPAY   | Technology             |            0.40% |
+| CRWD   | Technology             |            0.40% |
+| INTU   | Technology             |            0.40% |
+| PTC    | Technology             |            0.40% |
