@@ -72,6 +72,7 @@ Risk Allocator/
 ├── input.txt               # TradingView watchlist import
 ├── output.txt              # Generated list of tickers with risk exposure percentages weighted by sector
 ├── requirements.txt        # Python dependencies
-├── riskallocator.py          # Main logic of the program
+├── riskallocator.py        # Main logic of the program
+├── settings.txt            # Settings file where user can define the max risk percentage assigned to each sector
 ├── README.md               # Project documentation
 ```
