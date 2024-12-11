@@ -69,7 +69,9 @@ To distribute the program as a standalone executable:
 
 ```
 Risk Allocator/
-├── tradesorter.py          # Main logic of the program
+├── input.txt               # TradingView watchlist import
+├── output.txt              # Generated list of tickers with risk exposure percentages weighted by sector
 ├── requirements.txt        # Python dependencies
+├── riskallocator.py          # Main logic of the program
 ├── README.md               # Project documentation
 ```
